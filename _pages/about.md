@@ -1,22 +1,30 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About me"
+excerpt: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
- 
+ Hi! I'm **Yuqing Li**.
 
-Welcome to the Socrates Lab! We are a small research team affiliated with the Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
+I am a computer science student interested in:
 
-Github: https://github.com/socratesclub
+- Game development
+- Backend engineering
+- Distributed systems
 
-## People
-### Directer
-- Cheng-Jun Wang https://chengjun.github.io/
+Currently I am working on several projects including multiplayer game servers and web applications.
 
+## Projects
 
-🖋[Revise this page](https://github.com/SocratesGroup/socratesgroup.github.io/edit/master/_pages/about.md)
+You can find my projects on GitHub:
+
+https://github.com/yuqing709
+
+## Contact
+
+Email: liyuqingcs@outlook.com
+GitHub: https://github.com/yuqing709
