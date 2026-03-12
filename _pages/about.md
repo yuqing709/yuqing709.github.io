@@ -1,30 +1,34 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
- Hi! I'm **Yuqing Li**.
+Hi! I'm **Yuqing Li**, a computer science student with interests in **game development and backend systems**.
 
-I am a computer science student interested in:
+I enjoy designing and building software systems, especially multiplayer game architectures and scalable backend services.
+
+## Technical Interests
 
 - Game development
 - Backend engineering
 - Distributed systems
+- Web development
 
-Currently I am working on several projects including multiplayer game servers and web applications.
+## Selected Projects
 
-## Projects
+- **Multiplayer Game Server** – backend server for real-time multiplayer gameplay  
+- **Web Applications** – full-stack applications and APIs  
+- **Game Prototypes** – experimental gameplay systems
 
-You can find my projects on GitHub:
+More projects are available on my GitHub.
 
-https://github.com/yuqing709
+👉 **GitHub:** https://github.com/yuqing709
 
 ## Contact
 
-Email: liyuqingcs@outlook.com
-GitHub: https://github.com/yuqing709
+📧 Email: liyuqingcs@outlook.com  
+🐙 GitHub: https://github.com/yuqing709
