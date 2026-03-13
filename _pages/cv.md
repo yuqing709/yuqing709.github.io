@@ -6,6 +6,6 @@ author_profile: true
 
 ## Curriculum Vitae
 
-📄 [Download PDF](/files/cv.pdf)
+📄 [Download PDF](/files/liyuqing_cv.pdf)
 
-<embed src="/files/cv.pdf" width="100%" height="200px" type="application/pdf">
+<embed src="/files/liyuqing_cv.pdf" width="100%" height="150px" type="application/pdf">
