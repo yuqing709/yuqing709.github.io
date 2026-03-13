@@ -4,6 +4,8 @@ title: "CV"
 author_profile: true
 ---
 
-<iframe src="/files/cv.pdf" width="100%" height="800px"></iframe>
+## Curriculum Vitae
 
 📄 [Download PDF](/files/cv.pdf)
+
+<embed src="/files/cv.pdf" width="100%" height="900px" type="application/pdf">
