@@ -8,4 +8,4 @@ author_profile: true
 
 📄 [Download PDF](/files/cv.pdf)
 
-<embed src="/files/cv.pdf" width="100%" height="900px" type="application/pdf">
+<embed src="/files/cv.pdf" width="100%" height="650px" type="application/pdf">
