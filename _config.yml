@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuqing Li"
-  avatar           : "/images/profile.png"
+  avatar           : "/images/avatar.jpg"
   bio              : "Computer Science student interested in game development and backend engineering."
   location         : "Nanjing / Beijing"
   employer         :
