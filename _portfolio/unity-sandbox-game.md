@@ -26,7 +26,7 @@ A 2D sandbox simulation game developed collaboratively by a team of four.
 
 ### Project Highlights
 
-- 40+ GitHub commits
+- 50+ GitHub commits
 - ~2000 lines of code contributed
 - Full game development workflow including design, implementation, and testing
 
